@@ -17,7 +17,7 @@ const Signin = () => {
     <div>
       <Container>
         <FormWrap>
-          <Icon to='/'>dolla</Icon>
+          <Icon to='/'>Metaestates</Icon>
           <FormContent>
             <Form action='#'>
               <FormH1>Sign in into your account</FormH1>
