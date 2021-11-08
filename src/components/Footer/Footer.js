@@ -68,7 +68,7 @@ const Footer = () => {
           </FooterLinksContainer>
           <SocialMedia>
             <SocialMediaWrap>
-              <SocialLogo onClick={toogleTop}>dolla</SocialLogo>
+              <SocialLogo onClick={toogleTop}>MetaEstates</SocialLogo>
                 <Copyright>Metaestates &copy; {new Date().getFullYear()} All rights reserved</Copyright>
                 <SocialIcons>
                   <SocialIconLink href="/" target="_blank" noreferrer aria-label="Facebook">
