@@ -43,7 +43,7 @@ const Navbar = () => {
       <IconContext.Provider value={{color: '#fff'}}>
       <Nav scrollNav={scrollNav}>
         <NavContainer>
-          <NavLogo to="/" onClick={toogleTop}> dolla</NavLogo>
+          <NavLogo to="/" onClick={toogleTop}> MetaEstates</NavLogo>
           <NavIcon onClick={handleClick}>
             {click ? <BiX/> : <BiMenuAltRight/> }
           </NavIcon>
